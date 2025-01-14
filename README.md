@@ -15,17 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <a href="mailto:stefanialissa7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/stefania-lissa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
-
----
-
 ## 🛠️ Technologies & Tools
 
 <p align="center">
@@ -66,3 +55,14 @@ Here are some projects that demonstrate my skills and learning journey:
 ---
 
 ✨ Thank you for visiting my GitHub! Feel free to reach out or explore my repositories. Let's connect and collaborate! 🚀
+
+<div align="center">
+  <a href="mailto:stefanialissa7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/stefania-lissa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+---
