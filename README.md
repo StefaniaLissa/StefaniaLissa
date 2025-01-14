@@ -30,8 +30,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,kotlin,html,css,js,git,firebase,figma" alt="Skills" />
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres,postman" alt="Skills" />
-</p>
 
 ### Specializations:
 - **SAP Development:** ABAP, Core Data Services (CDS), OData Services, SAP Fiori, SAPUI5.
