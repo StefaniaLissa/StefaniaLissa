@@ -20,6 +20,8 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/{StefaniaLissa}/count.svg" alt="Visitor's Count" />
 </div>
 
+<br>
+
 <div align="center">
   <a href="mailto:stefanialissa7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -28,3 +30,17 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
+
+<hr>
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,nodejs,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,postman,figma" />
+</p>
+
+<hr>
+
