@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ### Specializations:
 - **SAP Development:** ABAP, Core Data Services (CDS), OData Services, SAP Fiori, SAPUI5.
-- **Mobile Development:** Android (Java & Kotlin).
+- **Mobile Development:** Android (Java & **Kotlin**).
 - **Web Development:** HTML5, CSS, JavaScript.
 - **Database Management:** PostgreSQL, Firebase Firestore.
 
@@ -48,11 +48,13 @@ Here are some projects that demonstrate my skills and learning journey:
 - **[Travel Trace App](https://github.com/StefaniaLissa/TravelTrace)**  
   A personal travel diary application developed in Kotlin with Firebase Firestore, designed for sharing and documenting journeys. Includes advanced image upload handling and geolocation.
 
-- **[SAP Fiori Freestyle App](https://github.com/StefaniaLissa/SAP-Fiori-App)**  
-  A professional SAP Fiori application for warehouse management, leveraging OData services and SAP BTP.
+- **[SAP Fiori Freestyle App](https://github.com/StefaniaLissa/Initial-Fiori-App)**  
+  A basic SAP Fiori application.
 
+<!--
 - **[Learning Projects](https://github.com/StefaniaLissa/LearningProjects)**  
   A collection of repositories showcasing my progress in SAP, Android, and web technologies.
+-->
 
 ---
 
@@ -60,7 +62,6 @@ Here are some projects that demonstrate my skills and learning journey:
 
 <div align="center">
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=stefanialissa&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="StefaniaLissa's GitHub Stats" />
-[![GitHub Streak](https://streak-stats.demolab.com/?user=StefaniaLissa)](https://git.io/streak-stats)
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=stefanialissa&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="StefaniaLissa's Most Used Languages" />
 </div>
 
