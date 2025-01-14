@@ -20,31 +20,50 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/stefania-lissa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
-<hr>
+---
 
-## 🛠️ Languages and Tools
-
-<br>
+## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,mongodb,postgres" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,html,css,js,git,firebase,figma" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres,postman" alt="Skills" />
 </p>
 
-<hr>
+### Specializations:
+- **SAP Development:** ABAP, Core Data Services (CDS), OData Services, SAP Fiori, SAPUI5.
+- **Mobile Development:** Android (Java & Kotlin).
+- **Web Development:** HTML5, CSS, JavaScript.
+- **Database Management:** PostgreSQL, Firebase Firestore.
 
-## ⚡️ Stats
+---
 
-<br>
+## 🌟 Featured Projects
 
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=stefanialissa&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="StefaniaLissa's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com?user=StefaniaLissa&theme=transparent&count_private=true&border_radius=10&locale=en" alt="StefaniaLissa's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=stefanialissa&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="StefaniaLissa's Most Used Languages" />
+Here are some projects that demonstrate my skills and learning journey:
+
+- **[Travel Trace App](https://github.com/StefaniaLissa/TravelTrace)**  
+  A personal travel diary application developed in Kotlin with Firebase Firestore, designed for sharing and documenting journeys. Includes advanced image upload handling and geolocation.
+
+- **[SAP Fiori Freestyle App](https://github.com/StefaniaLissa/SAP-Fiori-App)**  
+  A professional SAP Fiori application for warehouse management, leveraging OData services and SAP BTP.
+
+- **[Learning Projects](https://github.com/StefaniaLissa/LearningProjects)**  
+  A collection of repositories showcasing my progress in SAP, Android, and web technologies.
+
+---
+
+## ⚡️ GitHub Stats
+
+<div align="center">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=stefanialissa&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="StefaniaLissa's GitHub Stats" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=StefaniaLissa" alt="StefaniaLissa's Streak Stats" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=stefanialissa&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="StefaniaLissa's Most Used Languages" />
 </div>
 
-<hr>
+---
+
+✨ Thank you for visiting my GitHub! Feel free to reach out or explore my repositories. Let's connect and collaborate! 🚀
