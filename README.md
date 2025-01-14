@@ -60,7 +60,7 @@ Here are some projects that demonstrate my skills and learning journey:
 
 <div align="center">
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=stefanialissa&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="StefaniaLissa's GitHub Stats" />
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=StefaniaLissa" alt="StefaniaLissa's Streak Stats" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=StefaniaLissa" alt="GitHub Streak" /></a>
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=stefanialissa&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="StefaniaLissa's Most Used Languages" />
 </div>
 
